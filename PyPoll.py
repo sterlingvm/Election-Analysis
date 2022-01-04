@@ -208,9 +208,9 @@ with open(file_to_save, 'w') as textfile:
 
     winning_county_summary = (
         f"-------------------------\n"
-        f"Winner: {winning_county}\n"
-        f"Winning Vote Count: {winning_turnout:,}\n"
-        f"Winning Percentage: {winning_turnout_percentage:.1f}%\n"
+        f"Largest Turnout County: {winning_county}\n"
+        f"Largest Turnout Vote Count: {winning_turnout:,}\n"
+        f"Largest Turnout Percentage: {winning_turnout_percentage:.1f}%\n"
         f"-------------------------\n")
 
     # Print the winning candidate summary to the terminal
