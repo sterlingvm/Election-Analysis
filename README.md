@@ -1,7 +1,7 @@
 # Election-Analysis
 
 ## Project Overview
-Seth, A Colorado Board of Elections employee has asked for help completing the election audit of a recent local congressional election. He has asked us to build code in Python complete the audit and needs help with the following tasks:
+Seth, A Colorado Board of Elections employee has asked for help completing the election audit of a recent local congressional election. He has asked us to build code in Python helps to complete the audit and needs help with the following tasks:
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
