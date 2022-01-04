@@ -46,7 +46,7 @@ Executive Summary:
 
 
 ## Challenge Overview
-- In this Python-based challenge, we tackled applications of reading csv files, utilizing dictionaries, calling keys and values, iterating across dictionary item keys and running computations across their values, compiling our election calculations into analyses, operating our python script in the terminal, and writing the analyses onto a textfile.
+- In this Python-based challenge, we tackled applications of reading .csv files, utilizing dictionaries, calling keys and values, iterating across dictionary item keys and running computations across their values, compiling our election calculations into analyses, operating our python script in the terminal, and writing the analyses onto a textfile.
 
 ## Challenge Summary
 - This challenge allowed us to harness all of our python skills and apply them to simplify the election audit and automatically process that data and information.
